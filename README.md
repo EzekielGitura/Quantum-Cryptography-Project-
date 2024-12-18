@@ -23,7 +23,7 @@ This Quantum Cryptography System is an advanced implementation of quantum-enhanc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quantum-crypto-system.git
+git clone https://github.com/ezekielgitura/quantum-crypto-system.git
 
 # Navigate to the project directory
 cd quantum-crypto-system
